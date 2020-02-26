@@ -2,7 +2,7 @@
 
 namespace ContosoUniversity.Migrations
 {
-    public partial class MaxLengthOnNames : Migration
+    public partial class ComplexDataModel : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

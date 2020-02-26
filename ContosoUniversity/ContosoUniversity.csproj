@@ -22,4 +22,7 @@
     </PackageReference>
     <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="3.0.0" />
   </ItemGroup>
+  <ItemGroup>
+    <None Remove="CU.db-wal" />
+  </ItemGroup>
 </Project>
