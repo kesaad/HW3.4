@@ -3,6 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoUniversity", "ContosoUniversity\ContosoUniversity.csproj", "{0CDBF38A-9948-4629-BE9D-2AB148E00CFA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Time recording log", "Time recording log", "{B5C1C05C-0B2F-45BC-8670-5DC45B775724}"
+	ProjectSection(SolutionItems) = preProject
+		Time recording log.xlsx = Time recording log.xlsx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
